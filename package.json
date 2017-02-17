@@ -1,0 +1,14 @@
+{
+  "name": "turf",
+  "version": "1.0.0",
+  "description": "Custom build of turf for JSDR",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Kline <ekline@expression.net>",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^3.10.2"
+  }
+}
